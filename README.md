@@ -8,3 +8,5 @@
 [android 指南针](https://github.com/UserWang/Android-Notes/wiki/android-%E6%8C%87%E5%8D%97%E9%92%88)
 
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](https://github.com/UserWang/Android-Notes/wiki/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9-compileSdkVersion,-minSdkVersion-%E5%92%8C-targetSdkVersion)
+
+[buildToolVersion与CompileSdkVersion的区别](https://github.com/UserWang/Android-Notes/wiki/buildToolVersion%E4%B8%8ECompileSdkVersion%E7%9A%84%E5%8C%BA%E5%88%AB)
