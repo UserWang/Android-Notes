@@ -10,3 +10,5 @@
 [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](https://github.com/UserWang/Android-Notes/wiki/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9-compileSdkVersion,-minSdkVersion-%E5%92%8C-targetSdkVersion)
 
 [buildToolVersion与CompileSdkVersion的区别](https://github.com/UserWang/Android-Notes/wiki/buildToolVersion%E4%B8%8ECompileSdkVersion%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[使用Lint来改善你的代码](https://github.com/UserWang/Android-Notes/wiki/%E4%BD%BF%E7%94%A8lint%E6%9D%A5%E6%94%B9%E5%96%84%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A0%81)
