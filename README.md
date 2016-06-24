@@ -12,3 +12,5 @@
 [buildToolVersion与CompileSdkVersion的区别](https://github.com/UserWang/Android-Notes/wiki/buildToolVersion%E4%B8%8ECompileSdkVersion%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 [使用Lint来改善你的代码](https://github.com/UserWang/Android-Notes/wiki/%E4%BD%BF%E7%94%A8lint%E6%9D%A5%E6%94%B9%E5%96%84%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A0%81)
+
+[API指南之应用清单文件](https://github.com/UserWang/Android-Notes/wiki/API%E6%8C%87%E5%8D%97%E4%B9%8B%E5%BA%94%E7%94%A8%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6)
