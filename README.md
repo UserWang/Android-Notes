@@ -15,4 +15,4 @@
 
 [API指南之应用清单文件](https://github.com/UserWang/Android-Notes/wiki/API%E6%8C%87%E5%8D%97%E4%B9%8B%E5%BA%94%E7%94%A8%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6)
 
-[<permission> 和 <user-permission>的区别](https://github.com/UserWang/Android-Notes/wiki/Permission-%E5%92%8C-User-Permission%E7%9A%84%E5%8C%BA%E5%88%AB)
+[permission 和 user-permission的区别](https://github.com/UserWang/Android-Notes/wiki/permission--%E5%92%8C--user-permission-%E7%9A%84%E5%8C%BA%E5%88%AB)
