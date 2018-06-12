@@ -16,3 +16,5 @@
 [API指南之应用清单文件](https://github.com/UserWang/Android-Notes/wiki/API%E6%8C%87%E5%8D%97%E4%B9%8B%E5%BA%94%E7%94%A8%E6%B8%85%E5%8D%95%E6%96%87%E4%BB%B6)
 
 [permission 和 user-permission的区别](https://github.com/UserWang/Android-Notes/wiki/permission--%E5%92%8C--user-permission-%E7%9A%84%E5%8C%BA%E5%88%AB)
+
+[使用WorkManager进行任务调度](https://github.com/UserWang/Android-Notes/wiki/%E4%BD%BF%E7%94%A8WorkManager%E8%BF%9B%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6)
