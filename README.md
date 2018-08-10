@@ -18,3 +18,5 @@
 [permission 和 user-permission的区别](https://github.com/UserWang/Android-Notes/wiki/permission--%E5%92%8C--user-permission-%E7%9A%84%E5%8C%BA%E5%88%AB)
 
 [使用WorkManager进行任务调度](https://github.com/UserWang/Android-Notes/wiki/%E4%BD%BF%E7%94%A8WorkManager%E8%BF%9B%E8%A1%8C%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6)
+
+[NDK环境异常:No toolchains found in the NDK toolchains folder for ABI with prefix](https://github.com/UserWang/Android-Notes/wiki/No-toolchains-found-in-the-NDK-toolchains-folder-for-ABI-with-prefix)
